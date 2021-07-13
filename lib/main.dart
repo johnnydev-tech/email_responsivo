@@ -1,4 +1,3 @@
-import 'package:email_responsivo/app/screens/home_screen.dart';
 import 'package:email_responsivo/app/screens/home_screen_mobx.dart';
 import 'package:flutter/material.dart';
 
